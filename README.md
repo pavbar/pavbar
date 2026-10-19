@@ -1,16 +1,14 @@
-## Hi there 👋
+# Pavlo Barzdun
 
-<!--
-**pavbar/pavbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build laboratory automation, self-hosted infrastructure, and robotics systems.
+Much of my work lives on private, self-hosted Git servers.
 
-Here are some ideas to get you started:
+## HomeLab + Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Combined HomeLab and Work Git activity: 5,344 commits across 266 active days, 20 October 2025 to 19 October 2026.](assets/git-activity.svg)
+
+This calendar shows my authored commits from HomeLab and work Git histories over the past 365 days.
+Each non-merge commit is counted once across repositories, using its original author date in America/Winnipeg.
+
+Snapshot: 19 October 2026. Repository details remain private.
+This chart is separate from GitHub's contribution calendar.
